@@ -13,6 +13,13 @@ Browser-based sample upload tool for the MFB Tanzbär 2 drum machine.
 
 ---
 
+## Disclaimer
+
+This app is provided as-is, without any warranty or guarantee that it works correctly.
+Use at your own risk.
+
+---
+
 ## License
 
 © 2026 — [CC BY-NC-ND 4.0](./LICENSE)
