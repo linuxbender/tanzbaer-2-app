@@ -1,4 +1,4 @@
-# MFB Tanzbär 2 — Sample Manager
+# MFB Tanzbär 2 Sample Manager App
 
 Browser-based sample upload tool for the MFB Tanzbär 2 drum machine.
 
