@@ -1,6 +1,6 @@
 # MFB Tanzbär 2 Sample Manager App
 
-![Tests](https://github.com/linuxbender/tanzbaer-2-web/actions/workflows/test.yml/badge.svg)
+![Tests](https://linuxbender.github.io/tanzbaer-2-app/badge-tests.svg)
 
 Browser-based sample upload tool for the MFB Tanzbär 2 drum machine.
 
